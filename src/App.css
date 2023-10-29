@@ -1,0 +1,17 @@
+table {
+  box-shadow:5px 5px 5px  rgba(0, 0, 0, 0.311);
+  border: 1px solid black;
+  padding: 10px;
+  margin: auto;
+  margin-top: 100px;
+}
+h3{
+  font-family:cursive;
+}
+textarea{
+  width: 300px;
+  height: 100px;
+}
+td.a{
+  display: inline;
+}
